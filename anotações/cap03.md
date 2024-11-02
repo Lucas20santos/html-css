@@ -51,4 +51,7 @@ h1 {
 
 ## Como funciona o HTML e as CSS ?
 
+- clied side > front end
+- server-side > back-end
+
 
